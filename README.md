@@ -82,9 +82,6 @@ Final Docker Hub image tag:
 ausrbu/address-coordinates-decoder:1.0
 ```
 
-Image digest from the successful push:
-
-
 ## Notes
 
 The application requires internet access because it sends the address query to
